@@ -8,19 +8,9 @@ CHARACTERS
 
 ![img.png](img.png)
 
+OBSTACLES
 
-
-
-
-
-
-CANAVARLAR
-
-
-
-
-
-
+![img_1.png](img_1.png)
 
 SİLAHLAR
 
