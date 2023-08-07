@@ -2,8 +2,6 @@
 
 We are making a text-based adventure game with Java.
 
-
-
 CHARACTERS
 
 ![img.png](img.png)
@@ -20,57 +18,40 @@ ARMORS
 
 ![img_3.png](img_3.png)
 
+LOCATIONS
 
-MEKANLAR
+Safe House
 
+Feature : Renewing Life
 
-Güvenli Ev
+Cave
 
+Obstacle: Zombie (1-3 Pieces)
 
-Özellik : Can Yenileniyor
+Feature : War + Loot
 
+Item : Food
 
-Mağara
+Forest
 
+Obstacle: Vampire (1-3 Pieces)
 
-Canavar : Zombi (1-3 Adet)
+Feature : War + Loot
 
+Item: Firewood
 
-Özellik : Savaş + Ganimet
+River
 
+Obstacle : Bear (1-3 Pieces)
 
-Eşya : Yemek (Food)
+Feature : War + Loot
 
+Item: Water
 
-Orman
+Toolstore
 
+Feature : Buying Supporting Items
 
-Canavar : Vampir (1-3 Adet)
+Weapons: Pistol, Sword, Rifle
 
-
-Özellik : Savaş + Ganimet
-
-
-Eşya : Odun (Firewood)
-
-
-Nehir
-
-
-Canavar : Ayı (1-3 Adet)
-
-
-Özellik : Savaş + Ganimet
-
-
-Eşya : Su (Water)
-
-
-Mağaza
-Özellik : Destekleyici Eşyalar Satın Almak
-
-
-Silah : Tabanca,Kılıç,Tüfek
-
-
-Zırh : Hafif,Orta,Ağır
+Armor: Light, Medium, Heavy
