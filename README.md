@@ -1,3 +1,5 @@
+# Adventure Game is Under Development...
+
 # JavaAdventureGame
 
 We are making a text-based adventure game with Java.
