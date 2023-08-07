@@ -56,4 +56,4 @@ Feature : Buying Supporting Items
 
 Weapons: Pistol, Sword, Rifle
 
-Armor: Light, Medium, Heavy
+Armors: Light, Medium, Heavy
